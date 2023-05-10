@@ -1,13 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "hfqUobNQPvMwFhet6TfOPgG6FXgF4fAoIwtsqOSXFML4KFsm4atWovv0lIJp7dVMBW6PQ9xhZPsnttA+EHPRWg==",
+  "dgSpecHash": "ElnjHOJccU0/8dO6NAoCCdIyTwSRh3kL+uu8PuXBa2wjbcr5kzwPlQNqikDte7W1w3Adf3oO8iQk0+x2Z+/apw==",
   "success": true,
   "projectFilePath": "C:\\Users\\E948602\\source\\repos\\NUnitIntro2\\NUnitIntro2\\NUnitIntro2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\E948602\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\E948602\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
     "C:\\Users\\E948602\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\E948602\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\E948602\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+    "C:\\Users\\E948602\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\E948602\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
